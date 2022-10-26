@@ -1,0 +1,44 @@
+{
+    "books": [
+        {
+        "img": "./mbue.jpg",
+        "title": "How Beautiful We Were",
+        "author": "Imbolo Mbue",
+        "genre": "Fiction",
+        "description": "In 'How Beautiful We Were,' an African village goes up against an American oil company. In 2016, during a presidential campaign punctuated by racist alarms about immigration, Imbolo Mbue published her first novel about an African man struggling to become an American citizen.",
+        "link": "https://www.amazon.com/How-Beautiful-We-Were-Novel/dp/B081K5518W/ref=sr_1_1?crid=OELPWY5IFGHZ&keywords=how+beautiful+we+were+imbolo+mbue&qid=1666809380&qu=eyJxc2MiOiIyLjEwIiwicXNhIjoiMi4xMCIsInFzcCI6IjIuMDgifQ%3D%3D&s=books&sprefix=how+beautiful+we+were+imbolo+mbue%2Cstripbooks%2C71&sr=1-1"
+        },
+        {
+        "img": "./kitamura.jpg",
+        "title": "Intimacies",
+        "author": "Katie Kitamura",
+        "genre": "Fiction",
+        "description": "An unnamed woman — youngish, single —  goes to work as an interpreter at an international court at The Hague. She's in flight from New York City, where her father recently died. Like nearly everyone in this novel, she leads a globalized, deracinated life.",
+        "link":"https://www.amazon.com/Intimacies-A-Novel/dp/B08RDZZR1N/ref=sr_1_1?crid=1QVVJASADHK4U&keywords=intimacies&qid=1666810632&qu=eyJxc2MiOiIxLjk0IiwicXNhIjoiMS44MiIsInFzcCI6IjEuNzEifQ%3D%3D&s=audible&sprefix=intimacies%2Caudible%2C78&sr=1-1"
+        },
+        {
+        "img": "./jeffers.jpg",
+        "title": "The Love Songs of W.E.B. Dubois",
+        "author": "Honorée Fanonne Jeffers",
+        "genre": "Fiction",
+        "description":"Du Bois is the 2021 debut novel by American poet Honorée Fanonne Jeffers. It explores the history of an African-American family in the American South, from the time before the American civil war and slavery, through the Civil Rights Movement, to the present.",
+        "link":"https://www.amazon.com/Love-Songs-W-B-Bois/dp/B08NM2K385/ref=sr_1_1?keywords=the+love+songs+of+w.e.b.+du+bois&qid=1666810665&qu=eyJxc2MiOiIxLjkyIiwicXNhIjoiMS44NCIsInFzcCI6IjEuODMifQ%3D%3D&s=audible&sprefix=the+love%2Caudible%2C84&sr=1-1"
+        },
+        {
+        "img": "./lockwood.jpg",
+        "title": "No One is Talking About This",
+        "author": "Patricia Lockwood",
+        "genre": "Fiction",
+        "description":"Fragmentary and omniscient, incisive and sincere, No One Is Talking About This is at once a love letter to the endless scroll and a profound, modern meditation on love, language, and human connection from a singular voice in American literature.",
+        "link": "https://www.amazon.com/No-One-Talking-About-This/dp/B08BCS5JV7/ref=sr_1_1?crid=OW9SXOTHX20Y&keywords=no+one+is+talking+about+this&qid=1666810707&qu=eyJxc2MiOiIyLjUyIiwicXNhIjoiMi4zMyIsInFzcCI6IjIuMjkifQ%3D%3D&s=audible&sprefix=no+one+is+ta%2Caudible%2C69&sr=1-1"
+        },
+        {
+        "img": "./labatut.webp",
+        "title": "When We Cease to Understand The World",
+        "author": "Benjamín Labatut",
+        "genre": "Fiction",
+        "description":"Benjamín Labatut’s Sebaldian “When We Cease to Understand the World” grapples with science’s moral quandaries, but what is real and what is imagined?",
+        "link": "https://www.amazon.com/When-We-Cease-Understand-World-ebook/dp/B08QM8VHRT/ref=sr_1_1?keywords=when+we+cease+to+understand+the+world&qid=1666810740&qu=eyJxc2MiOiIyLjM4IiwicXNhIjoiMi4xMyIsInFzcCI6IjIuMjEifQ%3D%3D&s=audible&sprefix=when+we+c%2Caudible%2C86&sr=1-1-catcorr"
+        }
+    ]
+}
